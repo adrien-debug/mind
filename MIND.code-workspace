@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "path": ".",
+      "name": "MIND"
+    }
+  ],
+  "settings": {
+    "git.enabled": true,
+    "git.repositoryScanMaxDepth": 2
+  }
+}
