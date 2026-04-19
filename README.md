@@ -11,6 +11,8 @@ npm run dev
 
 URL locale : `http://localhost:8001` (port défini dans `package.json`).
 
+**Cursor :** dans le menu *File → Open Workspace from File…*, ouvre `MIND.code-workspace` (racine Git = dossier du projet ; la branche courante s’affiche dans la barre de statut). Connecte aussi GitHub dans Cursor (*Settings → Account / Integrations*) pour l’indexation et les agents si besoin.
+
 ## Dépôt
 
 - GitHub : `https://github.com/adrien-debug/mind`
